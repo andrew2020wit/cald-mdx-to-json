@@ -1,0 +1,489 @@
+{
+  "dictionaryName": "Cambridge Advanced Learner's Dictionary 4th",
+  "dictionaryTermLanguage": "en",
+  "dictionaryLicense": "Unlicensed",
+  "formatDescriptor": "JSONDictionary",
+  "updateDate": "2024-02-15T05:59:20.490Z",
+  "terms": [
+    {
+      "term": "book",
+      "articles": [
+        {
+          "partOfSpeech": "noun",
+          "transcription": "/bʊk/ $/bʊk/",
+          "definitions": [
+            {
+              "definition": "a written text that can be published in printed or electronic form:",
+              "level": "A1",
+              "examples": [
+                {
+                  "original": "Have you read any good books recently?"
+                },
+                {
+                  "original": "He has a new book out (= published)."
+                },
+                {
+                  "original": "She wrote a book on car maintenance."
+                }
+              ]
+            },
+            {
+              "definition": "a set of pages that have been fastened together inside a cover to be read or written in:",
+              "level": "A1",
+              "examples": [
+                {
+                  "original": "a hardback/paperback book"
+                },
+                {
+                  "original": "I took a book with me to read on the plane."
+                },
+                {
+                  "original": "He writes all his expenses in a little book he carries with him."
+                }
+              ]
+            },
+            {
+              "definition": "a number of one type of thing fastened together flat inside a cover:",
+              "level": "C2",
+              "examples": [
+                {
+                  "original": "a book of stamps/tickets/matches"
+                }
+              ]
+            },
+            {
+              "definition": "one of the parts that a very long book, such as the Bible, is divided into:",
+              "examples": [
+                {
+                  "original": "the book of Job"
+                }
+              ]
+            },
+            {
+              "definition": "the written records of money that a business has spent or received:",
+              "examples": [
+                {
+                  "original": "Running a school is much more of a business than it used to be, - by law we have to balance our books."
+                }
+              ]
+            },
+            {
+              "definition": "the situation in which a bookmaker accepts and pays out amounts of money that are risked on a particular result:",
+              "examples": [
+                {
+                  "original": "They've already opened/started a book on the result of the next World Cup."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "transcription": "/bʊk/ $/bʊk/",
+          "definitions": [
+            {
+              "definition": "to arrange to have a seat, room, performer, etc. at a particular time in the future:",
+              "level": "A2",
+              "examples": [
+                {
+                  "original": "I'd like to go but I'm booked up (= I have arranged to do other things) until the weekend."
+                },
+                {
+                  "original": "The hotel/restaurant/theatre is fully booked (= all the rooms/tables/tickets have been taken)."
+                },
+                {
+                  "original": "I've booked us two tickets to see 'Carmen'/I've booked two tickets for us to see 'Carmen'."
+                },
+                {
+                  "original": "She'd booked a table for four at their favourite restaurant."
+                },
+                {
+                  "original": "Will booked a seat on the evening flight to Los Angeles."
+                },
+                {
+                  "original": "We were advised to book early if we wanted to get a room."
+                },
+                {
+                  "original": "They booked a jazz band for their wedding."
+                }
+              ]
+            },
+            {
+              "definition": "If a police officer, referee, etc. books someone, they write down the person's name in an official record because they have done something wrong:",
+              "examples": [
+                {
+                  "original": "A football player who is booked twice in a game is sent off the field."
+                },
+                {
+                  "original": "My grandmother was booked for speeding last week."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": "give up something",
+      "articles": [
+        {
+          "partOfSpeech": "phrasal verb",
+          "definitions": [
+            {
+              "definition": "If you give up a habit, such as smoking, or something such as alcohol, you stop doing it or using it:",
+              "lexicalUnit": "give (something) up",
+              "level": "B1",
+              "examples": [
+                {
+                  "original": "I gave up smoking two years ago."
+                },
+                {
+                  "original": "Don't offer him a cigarette, he's trying to give it up."
+                }
+              ]
+            },
+            {
+              "definition": "to stop doing a regular activity or job:",
+              "lexicalUnit": "give something up",
+              "level": "B1",
+              "examples": [
+                {
+                  "original": "He's given up driving since his illness."
+                },
+                {
+                  "original": "We're going to give up our sports club membership after this year."
+                }
+              ]
+            },
+            {
+              "definition": "to stop doing something before you have finished it, usually because it is too difficult:",
+              "lexicalUnit": "give up (something)",
+              "level": "B2",
+              "examples": [
+                {
+                  "original": "I've given up trying to help her."
+                }
+              ]
+            },
+            {
+              "definition": "to stop trying to guess:",
+              "lexicalUnit": "give up",
+              "examples": [
+                {
+                  "original": "You'll never guess the answer - do you give up?"
+                },
+                {
+                  "original": "I give up - how many were there?"
+                }
+              ]
+            },
+            {
+              "definition": "to stop owning, using, or claiming something:",
+              "examples": [
+                {
+                  "original": "They were forced to give up their home because they couldn't pay the mortgage."
+                }
+              ]
+            },
+            {
+              "definition": "to stop hoping that a particular thing will happen:",
+              "examples": [
+                {
+                  "original": "We still haven't given up hope of finding her alive."
+                }
+              ]
+            },
+            {
+              "definition": "used to ask people to clap their hands to show their enjoyment or approval of a performance:",
+              "lexicalUnit": "give something up",
+              "examples": [
+                {
+                  "original": "Ladies and gentlemen, will you give it up for Danny Jones."
+                }
+              ]
+            },
+            {
+              "definition": "to stop having a friendship with someone:",
+              "lexicalUnit": "give someone up",
+              "examples": [
+                {
+                  "original": "She seems to have given up all her old friends."
+                }
+              ]
+            },
+            {
+              "definition": "to stop expecting that someone will arrive:",
+              "lexicalUnit": "give someone up",
+              "examples": [
+                {
+                  "original": "I've been waiting half an hour - I'd almost given up on you."
+                }
+              ]
+            },
+            {
+              "definition": "to think that someone is certain to die or to be dead:",
+              "lexicalUnit": "give someone up",
+              "examples": [
+                {
+                  "original": "The doctors had virtually given her up for dead, but she eventually recovered."
+                }
+              ]
+            },
+            {
+              "definition": "to allow the police or an enemy to take you as a prisoner:",
+              "lexicalUnit": "give yourself up",
+              "examples": [
+                {
+                  "original": "The gunman gave himself up to the police."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": "give",
+      "articles": [
+        {
+          "partOfSpeech": "verb",
+          "transcription": "/ɡɪv/ $/ɡɪv/",
+          "definitions": [
+            {
+              "definition": "to offer something to someone, or to provide someone with something:",
+              "level": "A1",
+              "examples": [
+                {
+                  "original": "She gave us a set of saucepans as a wedding present."
+                },
+                {
+                  "original": "Can you give me a date for another appointment?"
+                },
+                {
+                  "original": "They never gave me a chance/choice."
+                },
+                {
+                  "original": "Has the director given you permission to do that?"
+                },
+                {
+                  "original": "We always try to give to charity."
+                },
+                {
+                  "original": "We're collecting for the children's home - please give generously."
+                },
+                {
+                  "original": "The police gave (out) road-safety booklets to the children (= gave them to all the children)."
+                },
+                {
+                  "original": "Please give (up) your seat to an elderly or disabled person if they need it."
+                }
+              ]
+            },
+            {
+              "definition": "to tell someone something:",
+              "level": "A2",
+              "examples": [
+                {
+                  "original": "The winner's name was given (out)/They gave the winner's name (out) on the news."
+                },
+                {
+                  "original": "Can you give Jo a message for me?"
+                }
+              ]
+            },
+            {
+              "definition": "to perform an action:",
+              "level": "A2",
+              "examples": [
+                {
+                  "original": "She gave me a smile/strange look."
+                },
+                {
+                  "original": "They had to give the car a push to start it."
+                },
+                {
+                  "original": "Give me a call/ring (= phone me) when you get back from holiday."
+                },
+                {
+                  "original": "Who is giving the speech/lecture/concert?"
+                }
+              ]
+            },
+            {
+              "definition": "to organize a party, meal, etc.:",
+              "level": "A2",
+              "examples": [
+                {
+                  "original": "They're always giving parties."
+                },
+                {
+                  "original": "The ambassador is giving a banquet for the visiting president."
+                }
+              ]
+            },
+            {
+              "definition": "to pay someone a particular amount:",
+              "level": "B1",
+              "examples": [
+                {
+                  "original": "I gave the taxi driver £20 and told him to keep the change."
+                }
+              ]
+            },
+            {
+              "definition": "to allow a person or activity a particular amount of time:",
+              "level": "B1",
+              "examples": [
+                {
+                  "original": "I'm nearly ready - just give me a couple of minutes."
+                }
+              ]
+            },
+            {
+              "definition": "to produce or cause something:",
+              "level": "B1",
+              "examples": [
+                {
+                  "original": "The fresh air gave us an appetite (= made us hungry)."
+                },
+                {
+                  "original": "What you said has given me an idea."
+                },
+                {
+                  "original": "The alarm gave (out) a high-pitched sound."
+                }
+              ]
+            },
+            {
+              "definition": "to give your money, time, or best efforts, especially in a way that seems generous:",
+              "examples": [
+                {
+                  "original": "We're very grateful to all the people who have given of their time."
+                }
+              ]
+            },
+            {
+              "definition": "to put a lot of effort into doing something:",
+              "examples": [
+                {
+                  "original": "We must be finished by tonight, so I want you to give it your all."
+                }
+              ]
+            },
+            {
+              "definition": "to punish someone by sending them to prison for a particular period:",
+              "examples": [
+                {
+                  "original": "If you're found guilty, they'll give you three years."
+                }
+              ]
+            },
+            {
+              "definition": "to calculate that something will last a particular amount of time:",
+              "examples": [
+                {
+                  "original": "Look at that old car she bought - I give it two weeks before it breaks down."
+                }
+              ]
+            },
+            {
+              "definition": "to tell someone something or cause someone to think that something is true:",
+              "examples": [
+                {
+                  "original": "I was given to understand she was staying at this hotel."
+                }
+              ]
+            },
+            {
+              "definition": "to tell someone something or cause someone to think that something is true:",
+              "examples": [
+                {
+                  "original": "Upon quitting home, she gave it to be understood that she was about to visit her aunt in the Rue des Drômes."
+                },
+                {
+                  "original": "He even gave it to be understood that there has been some kind of massacre."
+                },
+                {
+                  "original": "I did not say, as you gave it to be believed, that the gentleman was to blame."
+                }
+              ]
+            },
+            {
+              "definition": "to attempt something:",
+              "examples": [
+                {
+                  "original": "Only a few people are successful as professional athletes, but it's worth giving it a go."
+                }
+              ]
+            },
+            {
+              "definition": "to say publicly that everyone present at a formal occasion, especially a meal, should drink a toast to someone (= have a drink in honour of someone):",
+              "examples": [
+                {
+                  "original": "Ladies and Gentlemen, I give you the president!"
+                }
+              ]
+            },
+            {
+              "definition": "If something gives, it stretches, bends, or breaks, or becomes less firm or tight, under pressure:",
+              "examples": [
+                {
+                  "original": "The rope gave under/with the weight of the load."
+                },
+                {
+                  "original": "The shoes will give a little after you've worn them once or twice."
+                },
+                {
+                  "original": "You can't work so hard all the time - something will have to give (= change)."
+                },
+                {
+                  "original": "Suddenly her patience gave (out) and she shouted angrily at the children."
+                }
+              ]
+            },
+            {
+              "definition": "in some sports, to decide and state officially that a player or the ball is in a particular condition or place:",
+              "examples": [
+                {
+                  "original": "The umpire gave the batsman out."
+                },
+                {
+                  "original": "The ball was clearly out, but the line judge gave it in."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "transcription": "/ɡɪv/ $/ɡɪv/",
+          "definitions": [
+            {
+              "definition": "the quality of stretching, bending, or breaking, or becoming less firm or tight, under pressure:",
+              "examples": [
+                {
+                  "original": "A sweater knitted in pure cotton doesn't have much give (= will not stretch much)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": "good afternoon",
+      "articles": [
+        {
+          "partOfSpeech": "exclamation",
+          "transcription": "/ˌɡʊd ˌɑːf.təˈnuːn/ $/ˌɡʊd ˌæf.tɚˈnuːn/",
+          "definitions": [
+            {
+              "definition": "something you say to greet someone politely when you meet them in the afternoon",
+              "level": "A1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

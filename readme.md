@@ -10,6 +10,6 @@ See also:
 
 [https://github.com/andrew2020wit/dsl-dictionary-parser](https://github.com/andrew2020wit/dsl-dictionary-parser)
 
-[https://github.com/andrew2020wit/bilingua-dealer](https://github.com/andrew2020wit/bilingua-dealer)
+[Foreign Reader](https://github.com/andrew2020wit/foreign-reader)
 
 This code is under MIT-license.

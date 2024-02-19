@@ -6,7 +6,7 @@ This script is actually to convert those txt-files into json-dictionary.
 
 See also:
 
-[dictionary.interface.ts](https://github.com/andrew2020wit/bilingua-dealer/blob/master/dictionary/dictionary.interface.ts)
+[dictionary.interface.ts](https://github.com/andrew2020wit/foreign-reader/blob/master/dictionary/dictionary.interface.ts)
 
 [https://github.com/andrew2020wit/dsl-dictionary-parser](https://github.com/andrew2020wit/dsl-dictionary-parser)
 

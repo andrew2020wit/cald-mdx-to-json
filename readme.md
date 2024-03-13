@@ -7,7 +7,15 @@ This script is actually to convert those txt-files into json-dictionary.
 It was created to convert Cambridge Advanced Learner's Dictionary 4th from mdx-format.
 It doesn't contain mdx-dictionary itself.
 
-See also:
+```node src/index.js```
+
+## create-favorites-list.js
+
+create favorites-examples list for 'Foreign Reader'.
+
+```node src/create-favorites-list.js```
+
+## See also:
 
 [dictionary.interface.ts](https://github.com/andrew2020wit/foreign-reader/blob/master/dictionary/dictionary.interface.ts)
 

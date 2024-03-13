@@ -1,13 +1,14 @@
 {
-  "name": "1-longman-parser-nodejs",
+  "name": "cald-mdx-to-json",
   "version": "1.0.0",
-  "description": "",
+  "description": "cald-mdx-to-json",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "ex": "node src/create-favorites-list.js"
   },
-  "author": "",
+  "author": "Andrew Faurash",
   "license": "ISC",
   "dependencies": {
     "node-html-parser": "^6.1.5"

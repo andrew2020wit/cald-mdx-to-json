@@ -15,6 +15,12 @@ create favorites-examples list for 'Foreign Reader'.
 
 ```node src/create-favorites-list.js```
 
+## favorite-list-to-csv.js
+
+export from json to csv
+
+```node src/favorite-list-to-csv.js```
+
 ## See also:
 
 [dictionary.interface.ts](https://github.com/andrew2020wit/foreign-reader/blob/master/dictionary/dictionary.interface.ts)

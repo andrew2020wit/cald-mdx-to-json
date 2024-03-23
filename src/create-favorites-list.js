@@ -1,16 +1,16 @@
 import {writeFileSync, readFileSync} from 'node:fs';
 
 let resultExamples = [];
-const dictionaryTag = 'phv-A1'
+const dictionaryTag = 'phv-idioms-A1-B2'
 const outputPath = './output/cald-examples-' + dictionaryTag + '.json';
 const dictionaryPath = './output/cald-dictionary.json';
 
 function definitionFilter(def) {
-    return def.level === 'A1';
+    return def.level === 'A1' || def.level === 'A2' || def.level === 'B1' || def.level === 'B2';
 }
 
 function partOfSpeechFilter(article) {
-    return article.partOfSpeech === 'phrasal verb';
+    return article.partOfSpeech === 'phrasal verb' || article.partOfSpeech === 'idiom';
 }
 
 const mixIt = true;
@@ -74,7 +74,7 @@ function computeArticle(article, term) {
 
 function computeDef(term, def, partOfSpeech, transcription) {
     if (definitionFilter(def)) {
-        def.examples.forEach(ex => {
+        def.examples?.forEach(ex => {
             resultExamples.push({
                 definition: def.definition,
                 original: ex.original,
